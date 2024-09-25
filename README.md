@@ -33,5 +33,7 @@ Student @ Kongu Engineering College
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Vaseem_Akthar?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/Vaseem_Akthar/)
 
-
 [![Vaseem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaseemakthar&bg_color=000000&color=78b51c&line=49a297&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
