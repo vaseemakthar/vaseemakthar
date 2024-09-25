@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am ; Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a></p>
-<img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png'/> 
 ## Hi there 👋 It's me Vaseem Akthar
 
 Student @ Kongu Engineering College
@@ -29,6 +29,8 @@ Student @ Kongu Engineering College
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
+# 📊 GitHub Stats:
+
 ![vaseemakthar's Stats](https://github-readme-stats.vercel.app/api?username=vaseemakthar&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaseemakthar&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaseemakthar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -39,8 +41,3 @@ Student @ Kongu Engineering College
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaseemakthar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaseemakthar&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaseemakthar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
