@@ -30,6 +30,8 @@ Student @ Kongu Engineering College
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![vaseemakthar's Stats](https://github-readme-stats.vercel.app/api?username=vaseemakthar&theme=react&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaseemakthar&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaseemakthar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Vaseem_Akthar?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/Vaseem_Akthar/)
 
